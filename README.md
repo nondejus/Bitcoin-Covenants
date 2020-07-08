@@ -1,1 +1,2 @@
-# bitcoin-covenants-
+bitcoin-covenants
+=================
